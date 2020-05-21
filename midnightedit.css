@@ -964,15 +964,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	box-shadow:none !important;
 	border:none !important;
 	background:transparent !important;
-}
 
-.akaBadge-1M-1Gw {
-	border-radius: 0;
-	background: var(--hover) !important;
-	color:#fff;
-	font-size:var(--size3);
-	font-weight:500;
-	margin:0 8px;
 }
 
 .nicknames-1XK4Zt,
@@ -1075,13 +1067,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 
 .iconWrapper-2OrFZ1 foreignObject {
 	mask:none !important;
-}
 
-.iconBadge-qZ4Ksk {
-	top:2px;
-	right:4px;
-	background:var(--danger);
-	box-shadow:0 0 0 2px rgb(240, 71, 71, 0.5);
 }
 
 .children-19S4PO path[d="M14 8.00598C14 10.211 12.206 12.006 10 12.006C7.795 12.006 6 10.211 6 8.00598C6 5.80098 7.794 4.00598 10 4.00598C12.206 4.00598 14 5.80098 14 8.00598ZM2 19.006C2 15.473 5.29 13.006 10 13.006C14.711 13.006 18 15.473 18 19.006V20.006H2V19.006Z"] {
@@ -6587,7 +6573,7 @@ body .bd-toasts {
 	display:none;
 }
 
-.messagesPopoutWrap-1MQ1bW .avatar-1BDn8e[src*="194830015353847817"] + .header-23xsNx .timestamp-3ZCmNB::before {
+.messagesPopoutWrap-1MQ1bW .avatar-1BDn8e[src*="a"] + .header-23xsNx .timestamp-3ZCmNB::before {
 	display:none;
 }
 
@@ -7664,7 +7650,7 @@ body .bd-toasts {
 	animation:profileHeaderBottom 500ms ease forwards;
 	animation-delay:350ms;
 	transform:translateY(20px);
-	opacity:0;
+	opacity:1;
 }
 
 .profileBadgeWrapper-rl_RO6:last-child {
@@ -7678,7 +7664,7 @@ body .bd-toasts {
 }
 
 .root-SR8cQa .profileBadges-2vWUYb:hover .profileBadge-2BqF-Z {
-	opacity:.5;
+	opacity:1;
 }
 
 .root-SR8cQa .profileBadges-2vWUYb .profileBadge-2BqF-Z:hover {
@@ -7784,7 +7770,7 @@ body .bd-toasts {
 	animation:profileHeaderBottom 500ms ease forwards;
 	animation-delay:350ms;
 	transform:translateY(20px);
-	opacity:0;
+	opacity:1;
 }
 
 .username-3gJmXY {
