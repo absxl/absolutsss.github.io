@@ -3037,7 +3037,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	padding: 2px 4px;
 	line-height: normal;
 	display: inline-block;
-	text-align: center;
+	text-align: right;
 	white-space: nowrap;
 	border: 2px solid #e78e4e;
 	border-radius: 1px;
