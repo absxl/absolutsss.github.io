@@ -154,7 +154,7 @@
   --main-color: #51007a;
 }
 
-.avatar-1BDn8e[src*="194830015353847817"]:hover + h2::after {
+.avatar-1BDn8e[src*="x"]:hover + h2::after {
   content: 'Don\'t forget your daily prayers';
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   --main-color: #45DDC0;
@@ -340,7 +340,7 @@
   content: "Atom";
 }
 
-.avatar-1BDn8e[src*="147889058670968844"]:hover + h2::after {
+.avatar-1BDn8e[src*="194830015353847817"]:hover + h2::after {
   content: "Hentai™";
   --main-color: #FB4B25;
 }
