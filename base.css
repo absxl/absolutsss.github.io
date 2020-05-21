@@ -1593,7 +1593,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .expandedFolderBackground-2sPsd- {
-	width: 43px;
+	width: 60px;
 	background: rgba(255, 255, 255, .15);
 	box-shadow: 0 0 12px rgba(255, 255, 255, .2);
 	border-radius: var(--guilds-roundness);
@@ -1601,8 +1601,8 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .expandedFolderIconWrapper-1xLaU-::before {
-	width: 43px;
-	height: 43px;
+	width: 48px;
+	height: 48px;
 	position: absolute;
 	content: '';
 	z-index: 1;
