@@ -1579,13 +1579,13 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .expandedFolderIconWrapper-1xLaU- {
-	width: 43px;
-	height: 43px;
+	width: 45px;
+	height: 45px;
 	transform:none !important;
 }
 
 .expandedFolderIconWrapper-1xLaU- svg {
-	transform: scale(4);
+	transform: scale(3);
 }
 
 .expandedFolderBackground-2sPsd-.collapsed-1GMuSb {
@@ -1593,7 +1593,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .expandedFolderBackground-2sPsd- {
-	width: 43px;
+	width: 35px;
 	background: rgba(255, 255, 255, .15);
 	box-shadow: 0 0 12px rgba(255, 255, 255, .2);
 	border-radius: var(--guilds-roundness);
