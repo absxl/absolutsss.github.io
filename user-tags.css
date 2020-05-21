@@ -117,11 +117,10 @@
 }
 
 
-  /* on hover */194830015353847817
+  /* on hover */
 .avatar-1BDn8e[src*="440515253982330900"]:hover + h2::after {
   content: 'Loli Guardian';
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-  --main-color: #E26F8E;
+  --main-color: #ae0d2b;
 }
 
 .avatar-1BDn8e[src*="202893235041992704"]:hover + h2::after {
