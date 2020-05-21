@@ -1562,7 +1562,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 
 .guildIconUnavailable-5PMHDN,
 .guildsError-b7zR5H {
-	line-height: 35px;
+	line-height: 43px;
 	box-shadow: 0 0 12px var(--danger);
 	background: rgba(255, 255, 255, .1);
 }
@@ -1601,8 +1601,8 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .expandedFolderIconWrapper-1xLaU-::before {
-	width: 24px;
-	height: 24px;
+	width: 43px;
+	height: 43px;
 	position: absolute;
 	content: '';
 	z-index: 1;
