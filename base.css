@@ -1585,7 +1585,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .expandedFolderIconWrapper-1xLaU- svg {
-	transform: scale(3);
+	transform: scale(1);
 }
 
 .expandedFolderBackground-2sPsd-.collapsed-1GMuSb {
@@ -1593,7 +1593,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .expandedFolderBackground-2sPsd- {
-	width: 35px;
+	width: 43px;
 	background: rgba(255, 255, 255, .15);
 	box-shadow: 0 0 12px rgba(255, 255, 255, .2);
 	border-radius: var(--guilds-roundness);
@@ -1698,7 +1698,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	border-radius: 0;
 	opacity: 1 !important;
 	background: var(--accent);
-	max-height:28px;
+	max-height:23px;
 }
 
 .wrapper-1Rf91z .scrollerWrap-1IAIlv .tutorialContainer-1v44GL .listItem-2P_4kh:first-child .wrapper-1BJsBx {
@@ -1738,9 +1738,9 @@ html.theme-light body.bd-minimal #app-mount::before {
 .unavailableBadge-3k7iq_ {
 	position: absolute;
 	top: 0;
-	left: -40px;
-	width: 40px;
-	height: 40px;
+	left: -43px;
+	width: 43px;
+	height: 43px;
 	background: rgba(0, 0, 0, .5) !important;
 	border-radius: var(--guilds-roundness);
 }
