@@ -5468,16 +5468,16 @@ html.theme-light body.bd-minimal #app-mount::before {
 .userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="194830015353847817"]+.headerText-2sdzFM .headerTag-2pZJzA:after {
 	content: 'Dev';
 	position: absolute;
-	right: 10px;
-	border-radius: 2px;
+	right: 14px;
+	border-radius: 3px;
 	color: var(--accent);
-	font-size: var(--size4);
-	font-weight: 500;
+	font-size: var(--size5);
+	font-weight: 1000;
 	height: 1.28em;
 	padding: .072rem .275rem;
 	line-height: 1.28em;
 	background: #fff;
-	z-index: 2;
+	z-index: 3;
 }
 
 .userPopout-3XzG_A .timeBarUserPopout-AWPFf2 {
