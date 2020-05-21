@@ -76,7 +76,7 @@
 .avatar-1BDn8e[src*="443765978132643850"] + h2::after,
 .avatar-1BDn8e[src*="96563253466898432"] + h2::after,
 .avatar-1BDn8e[src*="244363360886325248"] + h2::after,
-.avatar-1BDn8e[src*="150967530075324416"] + h2::after,
+.avatar-1BDn8e[src*="440515253982330900"] + h2::after,
 .avatar-1BDn8e[src*="147889058670968844"] + h2::after,
 .avatar-1BDn8e[src*="120721814837002240"] + h2::after,
 .avatar-1BDn8e[src*="227648235097817089"] + h2::after,
@@ -118,7 +118,7 @@
 
 
   /* on hover */194830015353847817
-.avatar-1BDn8e[src*="172045670008487936"]:hover + h2::after {
+.avatar-1BDn8e[src*="440515253982330900"]:hover + h2::after {
   content: 'Loli Guardian';
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   --main-color: #E26F8E;
@@ -151,7 +151,7 @@
 }
 
 .avatar-1BDn8e[src*="194830015353847817"]:hover + h2::after {
-  content: 'God Himself';
+  content: 'Hot Anime Girl';
   --main-color: #51007a;
 }
 
